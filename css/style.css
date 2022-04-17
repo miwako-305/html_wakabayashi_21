@@ -12,6 +12,18 @@ body{
     background-color: white;
     margin: ;50pt
     padding: 200pt;}
+.box{    
+    position: relative;}
+.box-text{
+    position: absolute;
+    width: 100%;
+    left: 0; 
+    top: calc(35% - 25px); 
+    text-align: center; 
+    color: white; 
+    font-weight: bold; 
+    font-size: 32px;
+    line-height: 50px;}
 .block{
     color: black;;
     font-size: 24pt;
