@@ -1,0 +1,56 @@
+/* ここから下に記載していく */
+@charset "utf-8";
+#wrap {
+    margin:0 auto;
+    width: 1200px;}
+header{}
+
+body{
+    color: #222222;
+    text-align: center;
+    line-height: 2.0;
+    background-color: white;
+    margin: ;50pt
+    padding: 200pt;}
+.block{
+    color: black;;
+    font-size: 24pt;
+    font-weight: bold;
+    margin-block-end: 60pt;
+    margin-block-start: 30pt;
+    padding: 5pt;}
+.bulletpoint{
+    color: black;
+    font-weight: bold;}
+.bp1{
+    text-align: left;}
+.img-about{
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+.flex{
+    padding-left: 200pt;
+    padding-right: 200pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+.title{
+    font-size: 16pt;
+    font-weight: bold;
+    width: auto;
+    margin-block-end: 10pt;}
+
+.text{
+    margin: 10pt;
+    width: auto;}
+.footer{
+    font-size: 12pt;
+    color:  white;
+    margin-block-start: 30pt;
+    margin-bottom: 30pt;
+    background-color: #707070;}
+.map{
+    position: relative;
+    width: 100%;
+
+}
